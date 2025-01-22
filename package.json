@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@highlight-run/react": "^8.1.0",
+    "highlight.run": "^9.7.3"
+  }
+}
